@@ -1,0 +1,43 @@
+year,area_km2,lumcon_table_km2,value_source,source_url,disturbed,disturbance_note
+1985,9774,9774,LUMCON table,https://gulfhypoxia.net/wp-content/uploads/2026/07/chart-1-2026-edit.png,0,
+1986,9592,9592,LUMCON table,https://gulfhypoxia.net/wp-content/uploads/2026/07/chart-1-2026-edit.png,0,
+1987,6688,6688,LUMCON table,https://gulfhypoxia.net/wp-content/uploads/2026/07/chart-1-2026-edit.png,0,
+1988,40,40,LUMCON table,https://gulfhypoxia.net/wp-content/uploads/2026/07/chart-1-2026-edit.png,0,summer drought: river flow fell in July and stratification broke down (LUMCON shelfwide page); not a storm year
+1989,,,no cruise (n.d.),https://gulfhypoxia.net/research/shelfwide-cruises/,0,no shelfwide cruise (no funding)
+1990,9420,9420,LUMCON table,https://gulfhypoxia.net/wp-content/uploads/2026/07/chart-1-2026-edit.png,0,
+1991,11920,11920,LUMCON table,https://gulfhypoxia.net/wp-content/uploads/2026/07/chart-1-2026-edit.png,0,
+1992,10804,10804,LUMCON table,https://gulfhypoxia.net/wp-content/uploads/2026/07/chart-1-2026-edit.png,0,
+1993,17520,17520,LUMCON table,https://gulfhypoxia.net/wp-content/uploads/2026/07/chart-1-2026-edit.png,0,
+1994,16680,16680,LUMCON table,https://gulfhypoxia.net/wp-content/uploads/2026/07/chart-1-2026-edit.png,0,
+1995,18200,17220,LUMCON histogram (digitized; approximate),https://gulfhypoxia.net/wp-content/uploads/2024/05/histogram-1985-2023-shelfwide-page-1.png,0,table value 17220 disagrees with LUMCON histogram by about 1000 km2; histogram value used
+1996,17920,17920,LUMCON table,https://gulfhypoxia.net/wp-content/uploads/2026/07/chart-1-2026-edit.png,0,
+1997,15950,15950,LUMCON table,https://gulfhypoxia.net/wp-content/uploads/2026/07/chart-1-2026-edit.png,0,
+1998,12480,12480,LUMCON table,https://gulfhypoxia.net/wp-content/uploads/2026/07/chart-1-2026-edit.png,1,currents from the west (LUMCON histogram code c); listed as storm or unusual wind year in LSU 2022 forecast
+1999,20000,20000,LUMCON 2000 press release (states 1999 size),https://gulfhypoxia.net/mapping-of-the-dead-zone-completed/,0,
+2000,4400,4400,LUMCON 2000 press release,https://gulfhypoxia.net/mapping-of-the-dead-zone-completed/,0,spring drought: low May load (not a storm year)
+2001,20720,19840,LUMCON 2001 press release,https://gulfhypoxia.net/mapping-press-release-july-2001/,0,cruise could not map full extent into Texas (press release)
+2002,22000,22000,LUMCON 2002 press release,https://gulfhypoxia.net/summer-2002-hypoxia/,0,
+2003,8560,8320,LUMCON 2003 press release,https://gulfhypoxia.net/tropical-storms-put-the-oxygen-back-into-the-dead-zone/,1,two tropical storms mixed the water column weeks before the cruise
+2004,15040,14640,LSU Sea Grant 2004 release (quotes LUMCON),https://www.lsu.edu/seagrantfish/news/2004/deadzone.htm,0,
+2005,11840,11800,LUMCON 2005 press release,https://gulfhypoxia.net/mapping-of-dead-zone-completed/,1,hurricane before cruise (LUMCON histogram code h; LSU 2022 forecast storm list)
+2006,17280,16560,LUMCON 2006 press release,https://gulfhypoxia.net/2006-press-release/,0,
+2007,20500,20480,LUMCON 2007 press release,https://gulfhypoxia.net/wp-content/uploads/2017/01/PressReleaseCruise2007.pdf,0,
+2008,20720,21764,LUMCON 2008 press release,https://gulfhypoxia.net/wp-content/uploads/2017/01/PressRelease2008.pdf,1,Hurricane Dolly before the cruise
+2009,8000,8240,LUMCON 2009 press release,https://gulfhypoxia.net/wp-content/uploads/2017/01/2009_Press_Release.pdf,0,currents from the west (LUMCON histogram code c); not in LSU 2022 storm list
+2010,20000,18400,LUMCON 2010 press release,https://gulfhypoxia.net/wp-content/uploads/2017/01/PressRelease2010.pdf,1,Hurricane Alex mixed the shelf earlier in July
+2011,17520,17680,LUMCON 2011 press release,https://gulfhypoxia.net/wp-content/uploads/2017/02/PressRelease2011.pdf,1,Tropical Storm Don
+2012,7480,7480,LUMCON 2012 press release,https://gulfhypoxia.net/wp-content/uploads/2017/02/cruise2012-PressRelease.pdf,0,drought year: low May load (not a storm year)
+2013,15120,15120,LUMCON 2013 press release,https://gulfhypoxia.net/wp-content/uploads/2017/02/cruise2013-PressRelease.pdf,1,winds from the west pushed the hypoxic water mass east
+2014,13080,13080,LUMCON 2014 press release,https://gulfhypoxia.net/wp-content/uploads/2017/02/cruise2014-Hypoxia_Press_Release.pdf,0,
+2015,16760,16760,LUMCON 2015 press release,https://gulfhypoxia.net/wp-content/uploads/2017/02/cruise2015-PRESS_RELEASE_2015.pdf,0,
+2016,,,no cruise (n.d.),https://gulfhypoxia.net/research/shelfwide-cruises/,0,no complete shelfwide cruise (ship breakdown)
+2017,22720,22720,LUMCON 2017 press release,https://gulfhypoxia.net/wp-content/uploads/2017/08/rev-PRESS-RELEASE-2017-LUMCON-LSU.pdf,0,area incompletely mapped at the end of some transects (LSU 2022 forecast)
+2018,7040,7040,LUMCON 2018 press release,https://gulfhypoxia.net/wp-content/uploads/2018/07/LUMCONLSU-Press-Release-2018-1.pdf,1,persistent west and northwest winds before the cruise
+2019,18000,18000,LUMCON 2019 press release,https://gulfhypoxia.net/wp-content/uploads/2019/08/Press-release-LSU-LUMCON-2019.pdf,1,Hurricane Barry before the cruise
+2020,5480,5480,LUMCON 2020 press release (from 2117 mi2),https://gulfhypoxia.net/wp-content/uploads/2020/08/2020-press-release.pdf,1,Hurricane Hanna just before the cruise; release prints 5048 km2 next to 2117 mi2 (2117 mi2 = 5483 km2)
+2021,16400,16400,LUMCON 2021 press release,https://gulfhypoxia.net/wp-content/uploads/2021/08/2021-LSULUMCON-press-release.pdf,0,
+2022,8480,8480,LUMCON 2022 press release,https://gulfhypoxia.net/wp-content/uploads/2022/08/edited-press-release-8-2-22.pdf,0,
+2023,7920,7920,LUMCON 2023 press release,https://gulfhypoxia.net/wp-content/uploads/2023/08/LSU-LUMCON-hypoxia-press-release-8-2-23-0935.pdf,0,
+2024,17360,17360,LUMCON 2024 press release,https://gulfhypoxia.net/wp-content/uploads/2024/08/Final-press-release-8-1-2024-NR.pdf,0,
+2025,11401,11401,LUMCON 2025 report,https://gulfhypoxia.net/wp-content/uploads/2025/08/LSU-Report-8-6-25.pdf,0,
+2026,3449,,LSU 2026 release,https://gulfhypoxia.net/wp-content/uploads/2026/08/DZ-size-in-2026_CG.pdf,1,Tropical Storm Bertha (July 19 to 24) and low June-July discharge

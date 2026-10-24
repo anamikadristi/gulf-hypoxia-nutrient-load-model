@@ -1,0 +1,11 @@
+year,area_km2,no3_kt,pred_km2,pi90_lo,pi90_hi,obs_minus_pred,obs_over_pred,below_90pi,disturbance_note
+1998,12480.0,194.48,20412.18,12450.16,28374.21,-7932.18,0.61,0,currents from the west (LUMCON histogram code c); listed as storm or unusual wind year in LSU 2022 forecast
+2003,8560.0,97.61,11952.98,4375.62,19530.33,-3392.98,0.72,0,two tropical storms mixed the water column weeks before the cruise
+2005,11840.0,75.03,9981.03,2311.36,17650.7,1858.97,1.19,0,hurricane before cruise (LUMCON histogram code h; LSU 2022 forecast storm list)
+2008,20720.0,176.74,18863.79,11063.62,26663.96,1856.21,1.1,0,Hurricane Dolly before the cruise
+2010,20000.0,128.89,14684.54,7120.4,22248.67,5315.46,1.36,0,Hurricane Alex mixed the shelf earlier in July
+2011,17520.0,182.16,19336.35,11490.84,27181.85,-1816.35,0.91,0,Tropical Storm Don
+2013,15120.0,199.79,20876.35,12858.5,28894.2,-5756.35,0.72,0,winds from the west pushed the hypoxic water mass east
+2018,7040.0,114.41,13420.06,5866.51,20973.61,-6380.06,0.52,0,persistent west and northwest winds before the cruise
+2019,18000.0,171.07,18368.54,10611.96,26125.11,-368.54,0.98,0,Hurricane Barry before the cruise
+2020,5480.0,124.97,14342.54,6784.11,21900.98,-8862.54,0.38,1,Hurricane Hanna just before the cruise; release prints 5048 km2 next to 2117 mi2 (2117 mi2 = 5483 km2)
